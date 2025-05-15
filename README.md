@@ -12,5 +12,5 @@ Este repositorio contiene mis proyectos, ejercicios y notas del curso de Python 
 ## Módulo Actual:
 Módulo 0: Configuración del Entorno y Fundamentos de Git/GitHub.
 
-## Contacto:
-- Cristian José Arrieta Ballesteros
+## Autor:
+- Cristian Arrieta
