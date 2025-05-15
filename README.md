@@ -9,8 +9,5 @@ Este repositorio contiene mis proyectos, ejercicios y notas del curso de Python 
 - Desarrollar modelos de Machine Learning para resolver problemas en farmacovigilancia y ensayos clínicos.
 - Gestionar y versionar proyectos utilizando Git y GitHub.
 
-## Módulo Actual:
-Módulo 0: Configuración del Entorno y Fundamentos de Git/GitHub.
-
 ## Autor:
 - Cristian Arrieta
