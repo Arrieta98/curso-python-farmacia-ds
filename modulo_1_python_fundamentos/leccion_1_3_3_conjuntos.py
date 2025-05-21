@@ -188,4 +188,3 @@ if protocolos_adicionales_pesados_3c:
     print(f"    c) Protocolos adicionales (no base) pasados por el Lote Z: {protocolos_adicionales_pesados_3c}")
 else:
     print(f"    C) El Lote Z no ha pasado protocolos adicionales más allá de los base (o no ha pasado todos los base).")
-     
